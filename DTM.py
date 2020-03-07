@@ -22,7 +22,7 @@ This program simulates Deterministic Turing Machine (DTM)
 This program will read an input file, run TM operations,
 display results and export final outputs.
 
- @author gli
+ @author RabbitCaesar
 
 """
 
