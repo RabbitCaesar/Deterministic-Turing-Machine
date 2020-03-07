@@ -40,3 +40,4 @@ The primary data structures used here are array (inputs & outputs) and hashmap (
 
 High level process flow: read an input file --> run TM operations --> display results --> export final outputs.
 
+@author RabbitCaesar
