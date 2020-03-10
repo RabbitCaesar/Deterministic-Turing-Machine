@@ -270,8 +270,7 @@ Driver executes DTM
 if __name__ == "__main__":
 
     # Set directory
-    os.chdir('/Users/gli/Documents/JHU/EN.605.621.82.SP20 Foundations '
-             'of Algorithms/Progamming_Assignement1')
+    os.chdir('')
 
     # Choose DTM type; could be 'deter', 'add', 'sub', 'mul'.
     dtm = 'deter'
